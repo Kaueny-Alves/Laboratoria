@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+section {
+  text-align: center;
+}
+
+.caixaResposta {
+  margin: 30px;
+  border: 1px solid black;
+  width: 250px;
+  height: 250px;
+}
+
+.vermelho {
+  color: red;
+}
+.verde {
+  color: green;
+}
